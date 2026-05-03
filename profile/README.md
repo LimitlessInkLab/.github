@@ -23,7 +23,7 @@ Welcome to the central node of **LimitlessInkLab**. We specialize in high-perfor
 ### Service Deployment & Commissions
 **Status: OPEN for Rapid Commissions** We are currently accepting high-priority tactical tasks:
 * Directory Organizer
-* Data Processor (e.g., Excel, spreadshet etc)
+* Data Processor (e.g., Excel, spreadshet...)
 * Custom Web Scrapers (BeautifulSoup/Selenium)
 * Discord/Telegram Automation Bots
 * UI/UX Refinement (Tailwind/Glassmorphism)
