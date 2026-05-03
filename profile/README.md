@@ -30,9 +30,9 @@ Welcome to the central node of **LimitlessInkLab**. We specialize in high-perfor
 * Debugging & Logic Optimization
 
 **Payment Gateways (Verified):**
+* **International:** Payoneer (Preferred)
 * **Direct Remittance:** Wise / Remitly / WorldRemit (Fastest)
 * **Local (PH):** Maya (Verified Merchant)
-* **International:** Payoneer (Pending Review)
 
 ---
 
